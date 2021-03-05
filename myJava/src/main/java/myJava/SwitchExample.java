@@ -18,5 +18,8 @@ public class SwitchExample {
 	}
 	System.out.println("First commit");
 	}
-
+	private void Syso() {
+		// TODO Auto-generated method stub
+		System.out.println("Second Commit");
+	}
 }
