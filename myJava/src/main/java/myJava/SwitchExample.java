@@ -16,7 +16,7 @@ public class SwitchExample {
 	break;
 	default: System.out.println("none of the numbers");
 	}
-
+	System.out.println("First commit");
 	}
 
 }
